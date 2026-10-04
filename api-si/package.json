@@ -1,0 +1,12 @@
+{
+  "name": "api-si",
+  "version": "1.0.0",
+  "description": "test",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  }
+}
